@@ -35,6 +35,12 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "Cheese",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 7
     }
   ]
 }
